@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">T15_LogIn</string>
+    <string name="help">having trouble with loging in ? get help mor</string>
+    <string name="log_in">Log in</string>
+</resources>
